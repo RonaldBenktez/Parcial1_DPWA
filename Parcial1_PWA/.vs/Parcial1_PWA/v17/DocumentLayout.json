@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\views\\home\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|c:\\users\\moises carranza\\desktop\\parcial1_pwa\\parcial1_pwa\\controllers\\subjetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7134A6A1-A04D-4E56-940B-A5A11FB72B04}|Parcial1_PWA\\Parcial1_PWA.csproj|solutionrelative:parcial1_pwa\\controllers\\subjetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\appsettings.json",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\appsettings.json",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\appsettings.json",
+              "RelativeToolTip": "Parcial1_PWA\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T05:10:31.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Program.cs",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\Program.cs",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Program.cs",
+              "RelativeToolTip": "Parcial1_PWA\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:10:27.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjetsController.cs",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Controllers\\SubjetsController.cs",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\Controllers\\SubjetsController.cs",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Controllers\\SubjetsController.cs",
+              "RelativeToolTip": "Parcial1_PWA\\Controllers\\SubjetsController.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA9wBEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T05:08:12.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Parcial1_PWA\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:59:06.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "Parcial1_PWA\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:50:18.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Parcial1_PWA\\Views\\Home\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Moises Carranza\\Desktop\\Parcial1_PWA\\Parcial1_PWA\\Views\\Home\\Delete.cshtml",
+              "RelativeToolTip": "Parcial1_PWA\\Views\\Home\\Delete.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwBQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-15T04:50:17.083Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

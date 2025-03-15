@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Parcial1_PWA.Models.Subjects>
+
+@{
+    ViewData["Title"] = "Subjects";
+}
+
+<div class="container">
+    <h1>Subjects</h1>
+    <a asp-action="Create" class="btn btn-primary mb-3">Create New</a>
+
+    <table class="table table-bordered text-center">
+        <thead>
+            <tr>
+                <th>SubjectName</th>
+                <th>VU</th>
+                <th>Active</th>
+                <th>Created</th>
+                <th>Created By</th>
+                <th>Edited</th>
+                <th>Edited By</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@item.SubjectName</td>
+                    <td>@item.VU</td>
+                    <td>@(item.IsActive ? "Yes" : "No")</td>
+                    <td>@item.Created.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                    <td>@item.CreatedBy</td>
+                    <td>@item.Edited.ToString("yyyy-MM-dd HH:mm:ss")</td>
+                    <td>@item.EditedBy</td>
+                    <td>
+                        <a asp-action="Details" asp-route-id="@item.SubjectId" class="btn btn-info">Details</a>
+                        <a asp-action="Edit" asp-route-id="@item.SubjectId" class="btn btn-warning">Edit</a>
+                        <a asp-action="Delete" asp-route-id="@item.SubjectId" class="btn btn-danger">Delete</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
